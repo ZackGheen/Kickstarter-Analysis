@@ -9,11 +9,9 @@ To create the Years column, I used the YEAR() function to extract the year from 
 The line chart shows the number of successful, failed, or canceled projects by month. With the line chart visualization, we can see how each month impacted the fundraising campaign outcome:
 ![image](https://user-images.githubusercontent.com/93295751/140664726-26f7d25a-ec46-4591-a40d-44a13867997a.png)
 Based on the chart we can see that May is the best month to launch a campaign. However the months of May-August and the month of October all had about the same number of failed campaigns. 
-Analysis of Outcomes Based on Goals
+###Analysis of Outcomes Based on Goals
 I created another line chart to visualize the percentage of successful, failed, and canceled plays based on the funding goal amounts.
-
 First, I created a sheet labeled "Outcomes Based on Goals" with the following columns:
-
 Goal
 Number Successful
 Number Failed
