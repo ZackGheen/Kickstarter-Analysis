@@ -3,7 +3,7 @@
 ### Purpose
 This project consists of information pertaining to different analyses performed on kickstarter data in order to determine the most desirable parameters for creating a successful kickstarter campaign. 
 ## Analysis and Challenges
-###Analysis of Outcomes Based on Launch Date
+Analysis of Outcomes Based on Launch Date:
 I created a pivot table based on Parent category and the years column. I filtered the parent category in order to analyze by theatre category. I then created a line chart in order to visualize the relationship between launch date and the outcome of campaigns. 
 To create the Years column, I used the YEAR() function to extract the year from the Date Created Conversion column and placed the data in a new column Years. Then, within the pivot table, I filtered the Parent Category by Theater to analyze the theater category.
 The line chart shows the number of successful, failed, or canceled projects by month. With the line chart visualization, we can see how each month impacted the fundraising campaign outcome:
